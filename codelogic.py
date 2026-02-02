@@ -5,4 +5,3 @@ def divide(a,b):
         return "cant divided by Zero"
 
 
-print(divide(6,2))
